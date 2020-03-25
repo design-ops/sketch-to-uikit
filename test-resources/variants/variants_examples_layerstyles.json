@@ -1,0 +1,439 @@
+{
+	"foreignLayerStyles": [],
+	"layerStyles": {
+		"_class": "sharedStyleContainer",
+		"objects": [{
+			"_class": "sharedStyle",
+			"do_objectID": "8F076C19-C57A-4AFE-B5E2-65FF2A264A57",
+			"name": "section\/element\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.7071372270584106,
+						"green": 0.4017830491065979,
+						"red": 0.0922628715634346
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "DAF8635A-65F4-4F24-A93D-B3520858BCFB",
+			"name": "*\/element\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.7686274509803922,
+						"green": 0.4901960784313726,
+						"red": 0.2117647058823529
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "1649DBD1-9B51-47A3-82B6-7A041B8A9D23",
+			"name": "section\/*\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.8862745098039215,
+						"green": 0.6705882352941176,
+						"red": 0.4549019607843137
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "F918D2B5-E626-4D9A-862C-206DF2115656",
+			"name": "*\/*\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.9607843137254902,
+						"green": 0.8313725490196078,
+						"red": 0.6980392156862745
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "88C3A7BE-70E5-4987-A435-B063D5B4B106",
+			"name": "section\/element[normal]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.7071372270584106,
+						"green": 0.4017830491065979,
+						"red": 0.0922628715634346
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "82ACA1EE-DBE0-4862-A9A7-3EEF8C7B77E7",
+			"name": "*\/element[normal]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.7686274509803922,
+						"green": 0.4901960784313726,
+						"red": 0.2117647058823529
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "37726AB0-7DA3-4F6B-A6DE-9EAB1F78316B",
+			"name": "section\/*[normal]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.8862745098039215,
+						"green": 0.6705882352941176,
+						"red": 0.4549019607843137
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "CAEEA10F-5A72-4C1F-BF96-1499D2AC9D6E",
+			"name": "*\/*[normal]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.9607843137254902,
+						"green": 0.8313725490196078,
+						"red": 0.6980392156862745
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "EBE0C3AC-AEE0-46BE-8F4B-27B9ED82B90D",
+			"name": "section\/element[selected]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.5647058823529412,
+						"green": 0.3176470588235297,
+						"red": 0.07450980392156861
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "96EA2755-8004-4CC8-885C-046B8A439F51",
+			"name": "*\/element[selected]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.611764705882353,
+						"green": 0.3921568627450981,
+						"red": 0.1686274509803922
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "FC4CA4DF-8C54-4128-B1DF-1801F0AC47B3",
+			"name": "section\/*[selected]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.7058823529411765,
+						"green": 0.5333333333333333,
+						"red": 0.3607843137254902
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "5848BDB1-70E0-4719-A640-70467E75BB8E",
+			"name": "*\/*[selected]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.7686274509803922,
+						"green": 0.6627450980392158,
+						"red": 0.5568627450980392
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "8FE6454A-67E8-4FB4-86D5-F895BC0E7C33",
+			"name": "section\/element[disabled]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.4235294117647059,
+						"green": 0.2392156862745098,
+						"red": 0.05490196078431368
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "F57EF81C-7E73-4FB8-8FE7-BB9CA482C988",
+			"name": "*\/element[disabled]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.4588235294117647,
+						"green": 0.2941176470588235,
+						"red": 0.1254901960784314
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "9D7C488B-CE25-4D5A-91F9-CAB83D2AB160",
+			"name": "section\/*[disabled]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.5294117647058824,
+						"green": 0.4,
+						"red": 0.2705882352941176
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}, {
+			"_class": "sharedStyle",
+			"do_objectID": "9B0D57BC-BB08-4270-AA81-AEFFEFC5DABC",
+			"name": "*\/*[disabled]\/layerStyle",
+			"value": {
+				"_class": "style",
+				"endMarkerType": 0,
+				"fills": [{
+					"_class": "fill",
+					"isEnabled": true,
+					"color": {
+						"_class": "color",
+						"alpha": 1,
+						"blue": 0.5764705882352941,
+						"green": 0.4980392156862745,
+						"red": 0.4156862745098039
+					},
+					"fillType": 0,
+					"noiseIndex": 0,
+					"noiseIntensity": 0,
+					"patternFillType": 0,
+					"patternTileScale": 1
+				}],
+				"miterLimit": 10,
+				"startMarkerType": 0,
+				"windingRule": 1
+			}
+		}]
+	}
+}

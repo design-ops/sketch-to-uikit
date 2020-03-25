@@ -1,0 +1,8 @@
+{{#if items}}
+var variants: [BasicTextStyle] = []{{#items}}
+_ = {
+    let item = basicFrom(name: "{{fontName}}", size: {{fontSize}}, textColor: {{> color color=fontColor}}, lineSpacing: {{lineSpacing}}, letterSpacing: {{characterSpacing}}, textAlignment: .{{alignment}}, {{#textTransform}}textTransform: .{{.}}, {{/textTransform}}variantType: {{variant_object}})
+    variants.append(item)
+}() {{/items}}{{/if}}
+{{#main}}// */{{element}}/{{atom}} - font is {{fontName}} / {{fontSize}} / {{> color color=fontColor}} / {{alignment}}{{/main}}
+{{#main}}return styleFrom(name: "{{fontName}}", size: {{fontSize}}, textColor: {{> color color=fontColor}}, lineSpacing: {{lineSpacing}}, letterSpacing: {{characterSpacing}}, textAlignment: .{{alignment}}, {{#textTransform}}textTransform: .{{.}}, {{/textTransform}}{{/main}}variants: {{#if items}}variants{{else}}[]{{/if}})

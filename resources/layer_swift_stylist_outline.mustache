@@ -1,0 +1,8 @@
+{{#if outline}}
+// Linear outline
+{{#if outline.is_dash}}
+let outline = DashedLayerOutline(color: {{> color color=outline.color}}, width: {{outline.line_width}}, lineDashPattern: {{outline.dash_pattern}})
+{{else}}
+let outline = LinearLayerOutline(color: {{> color color=outline.color}}, width: {{outline.line_width}})
+{{/if}}
+{{/if}}

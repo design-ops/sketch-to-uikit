@@ -1,0 +1,10 @@
+{{#if items}}
+var variants: [BasicLayerStyle] = []{{#items}}
+_ = {
+{{> gradient}}
+{{> outline}}
+variants.append(BasicLayerStyle(fill: fill, {{#if outline}}outline: outline, {{/if}}variantType: {{variant_object}}))
+}() {{/items}}{{/if}}
+{{#main}}{{> gradient}}{{/main}}
+{{#main}}{{> outline}}{{/main}}
+return LayerStyle(fill: fill{{#if main.outline}}, outline: outline{{/if}}{{#if items}}, variants: variants{{/if}})

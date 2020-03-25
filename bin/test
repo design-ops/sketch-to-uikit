@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source "$( dirname "${BASH_SOURCE[0]}" )/steps/_lib.sh"
+
+check_docker_is_installed
+check_docker_image_installed
+
+docker run sketch-to-stylable-uikit python -m unittest

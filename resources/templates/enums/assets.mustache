@@ -1,0 +1,22 @@
+//
+//  {{app_name}}Asset.swift
+//
+//  WARNING THIS FILE IS GENERATED *DO NOT* EDIT
+//
+
+// swiftlint:disable all
+
+import Foundation
+import StylableUIKit
+
+
+public enum {{app_name}}Asset: String, RawRepresentable, StylistAsset, Equatable {
+{{#if assets}}
+{{#assets}}
+    case {{.}};
+{{/assets}}
+{{else}}
+    // No Assets found in design file, so default enum generated
+    case none
+{{/if}}
+}

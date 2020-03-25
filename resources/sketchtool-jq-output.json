@@ -1,0 +1,6014 @@
+{
+  "layerTextStyles": {
+    "<class>": "MSSharedTextStyleContainer",
+    "objects": [
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "21971E9F-7392-4CC2-8B26-E467728A8B8C",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "21971E9F-7392-4CC2-8B26-E467728A8B8C",
+        "name": "small_paragraph/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "671F76B9-FE5E-4046-8639-6A789438B6C1",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "671F76B9-FE5E-4046-8639-6A789438B6C1",
+        "name": "meta/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "68CEA3D2-DFA1-45F3-B6B8-A8D29865D239",
+          "textStyle": {
+            "NSKern": 1.5,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 27,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 12,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 28,
+                "lineSpacing": 0,
+                "maximumLineHeight": 28,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "68CEA3D2-DFA1-45F3-B6B8-A8D29865D239",
+        "name": "xlarge_title/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "9C449DE4-4937-47D0-8D0A-2F202A1C8723",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "9C449DE4-4937-47D0-8D0A-2F202A1C8723",
+        "name": "medium_title/center/secondary_button"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "52695725-27ED-4A2F-A996-FB1DEF1F801F",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#E3001E"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "52695725-27ED-4A2F-A996-FB1DEF1F801F",
+        "name": "small_paragraph_alert/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "C6F67C40-B2AA-429D-B2CC-4AC9525CEDDD",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "C6F67C40-B2AA-429D-B2CC-4AC9525CEDDD",
+        "name": "small_paragraph/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "45C782F2-24F2-44C5-8523-BB71CA7EBF47",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "45C782F2-24F2-44C5-8523-BB71CA7EBF47",
+        "name": "meta/right/header"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "C3430AD0-5BB9-4845-9996-89CD086E6A74",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#E3001E"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 0,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "C3430AD0-5BB9-4845-9996-89CD086E6A74",
+        "name": "meta_alert/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "3D3F6D85-552D-4E1B-8F17-4A50956D6689",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "3D3F6D85-552D-4E1B-8F17-4A50956D6689",
+        "name": "paragraph/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "00C49569-6110-4768-AF32-BBD8BFC302EF",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#E3001E"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 0,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "00C49569-6110-4768-AF32-BBD8BFC302EF",
+        "name": "meta_alert/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "F2959E5A-85B4-47CA-9407-8FD27B886CD0",
+          "textStyle": {
+            "NSKern": 1.2,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 17,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 21,
+                "lineSpacing": 0,
+                "maximumLineHeight": 21,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "F2959E5A-85B4-47CA-9407-8FD27B886CD0",
+        "name": "large_title/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "D04A3A46-B52B-4456-AB03-CF054EA1B3D5",
+          "textStyle": {
+            "NSKern": 0.6000000238418579,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 10,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 4,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 14,
+                "lineSpacing": 0,
+                "maximumLineHeight": 14,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "D04A3A46-B52B-4456-AB03-CF054EA1B3D5",
+        "name": "xsmall_title/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "92229089-41CA-4205-A9CB-53A76C1CD5CC",
+          "textStyle": {
+            "NSKern": 0.6000000238418579,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 10,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 4,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 14,
+                "lineSpacing": 0,
+                "maximumLineHeight": 14,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "92229089-41CA-4205-A9CB-53A76C1CD5CC",
+        "name": "xsmall_title/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "A8D1E94E-FBD7-4FA7-B008-38F901DD4731",
+          "textStyle": {
+            "NSKern": 0.6000000238418579,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 10,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 4,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 14,
+                "lineSpacing": 0,
+                "maximumLineHeight": 14,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "A8D1E94E-FBD7-4FA7-B008-38F901DD4731",
+        "name": "xsmall_title/left/tab_bar"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "CAE4DA8E-DD4F-422C-A121-C41A1C5D2478",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "CAE4DA8E-DD4F-422C-A121-C41A1C5D2478",
+        "name": "medium_title/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "C21354F7-64B3-43F0-AB74-D3603178B450",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "C21354F7-64B3-43F0-AB74-D3603178B450",
+        "name": "paragraph/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "5ED139D5-F050-4465-A209-99157F7D9F53",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "5ED139D5-F050-4465-A209-99157F7D9F53",
+        "name": "meta/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "F5788470-0111-479C-A57A-0BBB2C684D8E",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#268151"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 0,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "F5788470-0111-479C-A57A-0BBB2C684D8E",
+        "name": "meta_confirm/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "D39011B1-6A2E-4761-9C35-DAFEB4FBE155",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "D39011B1-6A2E-4761-9C35-DAFEB4FBE155",
+        "name": "paragraph/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "CE8C01F9-3165-4378-9CBD-6305F517039B",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "CE8C01F9-3165-4378-9CBD-6305F517039B",
+        "name": "medium_title/right/primary_button"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "37BBA8FA-4673-4033-AAC8-66B12E42C803",
+          "textStyle": {
+            "NSKern": 1.5,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 27,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 12,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 28,
+                "lineSpacing": 0,
+                "maximumLineHeight": 28,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "37BBA8FA-4673-4033-AAC8-66B12E42C803",
+        "name": "xlarge_title/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "44687D16-48A5-461F-B9E8-E3B7CD09A6F2",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "44687D16-48A5-461F-B9E8-E3B7CD09A6F2",
+        "name": "medium_title/right/secondary_button"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "DA64FDD0-012C-4767-A434-A7199EA71AAD",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#E3001E"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 0,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "DA64FDD0-012C-4767-A434-A7199EA71AAD",
+        "name": "meta_alert/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "33AC2E3F-CF0C-4D05-A9C8-6BD570E577F0",
+          "textStyle": {
+            "NSKern": 1.2,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 17,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 21,
+                "lineSpacing": 0,
+                "maximumLineHeight": 21,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "33AC2E3F-CF0C-4D05-A9C8-6BD570E577F0",
+        "name": "large_title/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "33FB1291-E000-4F37-9166-81158B70D9BD",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "33FB1291-E000-4F37-9166-81158B70D9BD",
+        "name": "medium_title/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "703BC953-5531-42AC-85BD-1C8C55C460F9",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "703BC953-5531-42AC-85BD-1C8C55C460F9",
+        "name": "small_paragraph/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "46F70600-94A1-4E7D-AD22-BE79079BB003",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 16,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "46F70600-94A1-4E7D-AD22-BE79079BB003",
+        "name": "list/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "0ACE2294-F43A-415F-8299-ECFFE85100EB",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 16,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "0ACE2294-F43A-415F-8299-ECFFE85100EB",
+        "name": "list/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "4ED5DE01-81D6-4753-9522-0EC30299AB81",
+          "textStyle": {
+            "NSKern": 1.2,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 17,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 21,
+                "lineSpacing": 0,
+                "maximumLineHeight": 21,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "4ED5DE01-81D6-4753-9522-0EC30299AB81",
+        "name": "LARGE_TITLE/CENTER/CONTENT"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "FDA93A1C-C232-4035-9439-D8DE96BBCEC4",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "FDA93A1C-C232-4035-9439-D8DE96BBCEC4",
+        "name": "small_title/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "3EDACC0F-7BFF-45FB-AE29-48CED7CACE58",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#E3001E"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "3EDACC0F-7BFF-45FB-AE29-48CED7CACE58",
+        "name": "small_paragraph_alert/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "0B5787C3-A82D-4EB2-BF48-C773C53133E5",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "0B5787C3-A82D-4EB2-BF48-C773C53133E5",
+        "name": "small_title/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "31C4FA54-5C09-4E7D-B0EE-EE02019A8371",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "31C4FA54-5C09-4E7D-B0EE-EE02019A8371",
+        "name": "medium_title/center/primary_button"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "B8EB8A24-2149-4052-AB1E-A02EB3994CD9",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "B8EB8A24-2149-4052-AB1E-A02EB3994CD9",
+        "name": "medium_title/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "30B472D4-3012-4085-A72A-9D980B3CBBCA",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#268151"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "30B472D4-3012-4085-A72A-9D980B3CBBCA",
+        "name": "meta_confirm/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "21D9AF73-72A6-4E2A-B41D-63ED735BC679",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "21D9AF73-72A6-4E2A-B41D-63ED735BC679",
+        "name": "paragraph_highlight/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "F83C9675-4037-4ABB-9FC9-BAB0E5B8213C",
+          "textStyle": {
+            "NSKern": 0.6000000238418579,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 10,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 4,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 14,
+                "lineSpacing": 0,
+                "maximumLineHeight": 14,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "F83C9675-4037-4ABB-9FC9-BAB0E5B8213C",
+        "name": "xsmall_title/right/tab_bar"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "FB320E7D-B087-445D-A639-C4DD5C4ED1B9",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "FB320E7D-B087-445D-A639-C4DD5C4ED1B9",
+        "name": "paragraph_highlight/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "AD07E76F-0115-47B8-BE69-F39F412D7E9C",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "AD07E76F-0115-47B8-BE69-F39F412D7E9C",
+        "name": "meta/center/header"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "C74C27BA-5738-4767-9DCE-BA17DD43EBCD",
+          "textStyle": {
+            "NSKern": 0.6000000238418579,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 10,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 4,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 14,
+                "lineSpacing": 0,
+                "maximumLineHeight": 14,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "C74C27BA-5738-4767-9DCE-BA17DD43EBCD",
+        "name": "xsmall_title/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "CC64C095-C68C-4C03-BCEC-EA2E0C9C8476",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#268151"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 0,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "CC64C095-C68C-4C03-BCEC-EA2E0C9C8476",
+        "name": "meta_confirm/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "90A6C1E2-905B-4A53-B7A1-4832310D403B",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 16,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "90A6C1E2-905B-4A53-B7A1-4832310D403B",
+        "name": "list/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "DF81BECF-ADA0-4114-841D-AD7B75515A05",
+          "textStyle": {
+            "NSKern": 1,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 8,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 20,
+                "lineSpacing": 0,
+                "maximumLineHeight": 20,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "DF81BECF-ADA0-4114-841D-AD7B75515A05",
+        "name": "paragraph_highlight/center/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "35E6B80B-4024-47F2-A5FE-969FA99871E7",
+          "textStyle": {
+            "NSKern": 0.6000000238418579,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 10,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 4,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 2,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 14,
+                "lineSpacing": 0,
+                "maximumLineHeight": 14,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "35E6B80B-4024-47F2-A5FE-969FA99871E7",
+        "name": "xsmall_title/center/tab_bar"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "D9B0692D-4C3B-4ED8-9756-C86A3DF8E5B4",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "D9B0692D-4C3B-4ED8-9756-C86A3DF8E5B4",
+        "name": "meta/left/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "4F571DEC-BFEF-4644-94B4-C59BD2B13B8E",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "4F571DEC-BFEF-4644-94B4-C59BD2B13B8E",
+        "name": "medium_title/left/primary_button"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "8236F896-8506-4058-97EB-52D9438BE78A",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#E3001E"
+            },
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "8236F896-8506-4058-97EB-52D9438BE78A",
+        "name": "small_paragraph_alert/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "94CD62EF-32AB-45F5-B1E5-7DACC99C6DBE",
+          "textStyle": {
+            "NSKern": 1.5,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 27,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 12,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 28,
+                "lineSpacing": 0,
+                "maximumLineHeight": 28,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "94CD62EF-32AB-45F5-B1E5-7DACC99C6DBE",
+        "name": "xlarge_title/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "E9837411-FC7B-4186-BCB4-FB16F2C68D6C",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#000000"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 1,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "E9837411-FC7B-4186-BCB4-FB16F2C68D6C",
+        "name": "small_title/right/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "147F394A-C3E5-4958-8F9F-6B3DFA972377",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#767676"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 14,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 18,
+                "lineSpacing": 0,
+                "maximumLineHeight": 18,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "147F394A-C3E5-4958-8F9F-6B3DFA972377",
+        "name": "medium_title/left/secondary_button"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "F057FED2-D9FD-4B35-A6FD-8D459F3648E6",
+          "textStyle": {
+            "NSKern": 0.800000011920929,
+            "<class>": "MSTextStyle",
+            "MSAttributedStringColorAttribute": {
+              "<class>": "MSImmutableColor",
+              "value": "#FFFFFF"
+            },
+            "MSAttributedStringTextTransformAttribute": 1,
+            "NSFont": {
+              "name": "Proxima Nova Semibold",
+              "attributes": {
+                "NSFontSizeAttribute": 12,
+                "NSFontNameAttribute": "ProximaNova-Semibold"
+              },
+              "family": "Proxima Nova"
+            },
+            "NSParagraphStyle": {
+              "<class>": "NSParagraphStyle",
+              "style": {
+                "headerLevel": 0,
+                "paragraphSpacing": 6,
+                "tabStops": [
+                  28,
+                  56,
+                  84,
+                  112,
+                  140,
+                  168,
+                  196,
+                  224,
+                  252,
+                  280,
+                  308,
+                  336
+                ],
+                "headIndent": 0,
+                "lineBreakMode": 0,
+                "hyphenationFactor": 0,
+                "alignment": 0,
+                "paragraphSpacingBefore": 0,
+                "tailIndent": 0,
+                "firstLineHeadIndent": 0,
+                "minimumLineHeight": 15,
+                "lineSpacing": 0,
+                "maximumLineHeight": 15,
+                "lineHeightMultiple": 0,
+                "baseWritingDirection": -1,
+                "defaultTabInterval": 0
+              }
+            }
+          },
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "F057FED2-D9FD-4B35-A6FD-8D459F3648E6",
+        "name": "meta/left/header"
+      }
+    ]
+  },
+  "layerStyles": {
+    "<class>": "MSSharedStyleContainer",
+    "objects": [
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "24570059-D664-46A2-AE1A-934349A106AD",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#000000"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "24570059-D664-46A2-AE1A-934349A106AD",
+        "name": "background_color/primary_button"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "2F55C1B0-BCBE-403B-8A8E-8DB9FE585FF3",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#FFFFFF"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "2F55C1B0-BCBE-403B-8A8E-8DB9FE585FF3",
+        "name": "list_odd/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "2C0B20C4-2E8F-4BAB-924F-172577D28D8C",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#000000"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "2C0B20C4-2E8F-4BAB-924F-172577D28D8C",
+        "name": "background_color/header"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "A7CDAEDA-2AD8-48B5-B9DD-B3FC257347D8",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#E3001E"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "A7CDAEDA-2AD8-48B5-B9DD-B3FC257347D8",
+        "name": "no_stock/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "6659B8B7-D15F-43BB-BBA1-E2287EBCB6D7",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#F9F9F9"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            },
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#D8D8D8"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "rgba(0,0,0,0.10)"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "rgba(0,0,0,0.00)"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 1,
+                "to": {
+                  "x": 0.5,
+                  "y": 1.6857142857142857
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 1
+                }
+              },
+              "fillType": 1,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "6659B8B7-D15F-43BB-BBA1-E2287EBCB6D7",
+        "name": "product_photo/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "D96D8725-D51D-469D-86EA-4372BC412BC0",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#F9F9F9"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "D96D8725-D51D-469D-86EA-4372BC412BC0",
+        "name": "background_color/secondary_button"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "CE0C1E7F-A87C-4342-B124-4781D85C15F1",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#268151"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "CE0C1E7F-A87C-4342-B124-4781D85C15F1",
+        "name": "in_stock/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "ADA598A9-F24A-4470-8461-B9E966633A6E",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#F9F9F9"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "ADA598A9-F24A-4470-8461-B9E966633A6E",
+        "name": "list_even/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "AA991BC6-5BF9-4A6D-8414-CD2229E3DC64",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#FFFFFF"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "AA991BC6-5BF9-4A6D-8414-CD2229E3DC64",
+        "name": "background_color/content"
+      },
+      {
+        "<class>": "MSSharedStyle",
+        "value": {
+          "sharedObjectID": "4C691EFB-A06B-4997-BD91-98BC049AFE4F",
+          "borderOptions": {
+            "lineJoinStyle": 0,
+            "<class>": "MSStyleBorderOptions",
+            "isEnabled": 0,
+            "lineCapStyle": 0,
+            "dashPattern": []
+          },
+          "endDecorationType": 0,
+          "contextSettings": {
+            "<class>": "MSGraphicsContextSettings",
+            "opacity": 1,
+            "blendMode": 0
+          },
+          "blur": {
+            "radius": 10,
+            "<class>": "MSStyleBlur",
+            "motionAngle": 0,
+            "isEnabled": 0,
+            "type": 0,
+            "center": {
+              "x": 0.5,
+              "y": 0.5
+            }
+          },
+          "<class>": "MSStyle",
+          "fills": [
+            {
+              "contextSettings": {
+                "<class>": "MSGraphicsContextSettings",
+                "opacity": 1,
+                "blendMode": 0
+              },
+              "color": {
+                "<class>": "MSColor",
+                "value": "#000000"
+              },
+              "<class>": "MSStyleFill",
+              "gradient": {
+                "stops": [
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#FFFFFF"
+                    },
+                    "position": 0
+                  },
+                  {
+                    "<class>": "MSGradientStop",
+                    "color": {
+                      "<class>": "MSColor",
+                      "value": "#000000"
+                    },
+                    "position": 1
+                  }
+                ],
+                "<class>": "MSGradient",
+                "gradientType": 0,
+                "to": {
+                  "x": 0.5,
+                  "y": 1
+                },
+                "elipseLength": 0,
+                "from": {
+                  "x": 0.5,
+                  "y": 0
+                }
+              },
+              "fillType": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1,
+              "noiseIndex": 0,
+              "isEnabled": 1
+            }
+          ],
+          "miterLimit": 10,
+          "colorControls": {
+            "hue": 0,
+            "<class>": "MSStyleColorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "isEnabled": 0,
+            "saturation": 1
+          },
+          "innerShadows": [],
+          "borders": [],
+          "startDecorationType": 0,
+          "shadows": []
+        },
+        "objectID": "4C691EFB-A06B-4997-BD91-98BC049AFE4F",
+        "name": "background_color/tab_bar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+//
+//  {{app_name}}Element.swift
+//
+//  WARNING THIS FILE IS GENERATED *DO NOT* EDIT
+//
+
+// swiftlint:disable all
+
+import Foundation
+import StylableUIKit
+
+
+public enum {{app_name}}Element: String, StylistElement {
+{{#if elements}}
+{{#elements}}
+    case {{.}};
+{{/elements}}
+{{else}}
+    // No Elements found in design file, so default enum generated
+    case none
+{{/if}}
+}

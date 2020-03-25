@@ -1,0 +1,22 @@
+//
+//  AppVariants.swift
+//
+//  WARNING THIS FILE IS GENERATED *DO NOT* EDIT
+//
+
+// swiftlint:disable all
+
+import Foundation
+import StylableUIKit
+
+// Some variants are special and they don't appear in the generated enum.
+// These are represented by UIControl.State's enum:
+// .normal, .highlighted, .disabled, .selected, .focused, .application and .reserved
+{{#if variants}}
+public enum AppVariant: String, StylistVariant {
+{{#variants}}
+    case {{.}};
+{{/variants}}
+}{{else}}
+// No Variants found in design file, so no enum generated
+{{/if}}

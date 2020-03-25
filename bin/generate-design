@@ -1,0 +1,146 @@
+#!/bin/bash
+
+source "$( dirname "${BASH_SOURCE[0]}" )/steps/_lib.sh"
+script_dir="${plugin_project_path}/bin/"
+output_dir="${plugin_project_path}/output/"
+
+set -e
+
+function show_help_and_exit {
+    cat <<HELPTEXT
+
+generate-design - generate swift classes from a Sketch file
+
+SYNOPSIS
+
+    ./run -s sketch-file
+
+MANDATORY ARGUMENTS
+
+    -s  path to sketch file to process
+
+OPTIONAL ARGUMENTS
+
+    -a  path to xcode app folder
+    -o  path to folder to generate code into (defaults to output folder in project)
+    -h  display this help text
+    -d  run in developer mode (alias local code into container)
+
+HELPTEXT
+    exit 1
+}
+
+function check_params_exist {
+    if [ -z "$sketch_file" ] ; then
+        echo "🚨 Error: no sketch file specified 🚨"
+        show_help_and_exit
+    fi
+}
+
+function run_general {
+    echo "--------------------"
+    echo "🎉 Running GENERAL 🎉"
+    echo "--------------------"
+    ${script_dir}/steps/general.sh -o "${output_dir}"
+}
+
+function run_assets {
+    if [ ! -z "$sketch_file" ] ; then
+        echo "--------------------"
+        echo "🎉 Running ASSETS 🎉"
+        echo "--------------------"
+        ${script_dir}/steps/assets.sh -s "${sketch_file}" -o "${output_dir}"
+    else
+        echo "no sketch file, so skipping assets"
+    fi
+}
+
+function run_textstyles {
+    if [ ! -z "$sketch_file" ] ; then
+        echo "------------------------"
+        echo "🎉 Running TEXT Styles 🎉"
+        echo "------------------------"
+        ${script_dir}/steps/textstyles.sh -s "${sketch_file}" -o "${output_dir}"
+    else
+        echo "no sketch file, so skipping textstyles"
+    fi
+}
+
+function run_layerstyles {
+    if [ ! -z "$sketch_file" ] ; then
+        echo "-------------------------"
+        echo "🎉 Running LAYER Styles 🎉"
+        echo "-------------------------"
+        ${script_dir}/steps/layerstyles.sh -s "${sketch_file}" -o "${output_dir}"
+    else
+        echo "no sketch file, so skipping layerstyles"
+    fi
+}
+
+function run_enums {
+    echo "------------------"
+    echo "🎉 Running Enums 🎉"
+    echo "------------------"
+    enum_params=""
+    if [ ! -z "$app_folder" ] ; then
+        enum_params="${enum_params} -a ${app_folder}"
+    fi
+    ${script_dir}/steps/enums.sh -i "${output_dir}" -o "${output_dir}" ${enum_params}
+}
+
+function run_swiftformat {
+    echo "------------------"
+    echo "🎉 Running SwiftFormat 🎉"
+    echo "------------------"
+    ${script_dir}/steps/swiftformat.sh -i "${output_dir}"
+}
+
+function run_xcode_copy {
+    echo "------------------"
+    echo "🎉 Running Xcode Copy 🎉"
+    echo "------------------"
+    if [ ! -z "$app_folder" ] ; then
+        ${script_dir}/steps/xcodecopy.sh -i "${output_dir}" -a "${app_folder}"
+    else
+        echo "🚨 not running xcode_copy as no app folder specified (-a /path/to/app)"
+    fi
+}
+
+
+# Parse command line args...
+while getopts s:o:a:hd opt; do
+    case $opt in
+        s)
+            sketch_file=$OPTARG
+            echo "sketch file is $OPTARG"
+            ;;
+        o)
+            output_dir=$OPTARG
+            echo "json file is $OPTARG"
+            ;;
+        a)
+            app_folder=$OPTARG
+            ;;
+        h)
+            show_help_and_exit
+            ;;
+        d)
+            enable_dev_mode
+            ;;
+        \?)
+            echo "Invalid option: -$OPTARG"
+            show_help_and_exit
+            ;;
+    esac
+done
+
+check_params_exist
+check_docker_is_installed
+check_docker_image_installed
+run_general
+run_assets
+run_textstyles
+run_layerstyles
+run_enums
+run_swiftformat
+run_xcode_copy

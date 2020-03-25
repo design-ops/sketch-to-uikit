@@ -1,0 +1,8 @@
+{{#main}}// "{{section}}/{{element}}/{{atom}}{{/main}}"{{#if items}}
+var variants: [BasicAsset] = []{{#items}}
+_ = {
+    // {{section}}/{{element}}/{{atom}}
+    let item = BasicAsset(image: UIImage(named: "{{context}}")!, variantType: {{variant_object}})
+    variants.append(item)
+}() {{/items}}{{/if}}
+{{#main}}return Asset(image: UIImage(named: "{{context}}")!{{/main}}{{#if items}}, variants: variants{{/if}})

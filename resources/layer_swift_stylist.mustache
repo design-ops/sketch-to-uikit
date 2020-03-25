@@ -1,0 +1,61 @@
+//
+//  Stylist+layerStyles.swift
+//
+//  WARNING THIS FILE IS GENERATED *DO NOT* EDIT
+//
+
+// swiftlint:disable all
+
+import Foundation
+import StylableUIKit
+
+extension Stylist {
+
+    public func layerStyle(_ style: StylistLayerStyle, element: StylistElement?, section: StylistSection?) -> LayerStyle {
+
+        let atom = style.name
+{{#grouped}}
+        // first section / element / atom{{#has_section_element_atom}}
+        if let sectionName = section?.name, let elementName = element?.name {
+{{#section_element_atom}}
+
+            if atom == "{{atom}}" && elementName == "{{element}}" && sectionName == "{{section}}" {
+{{> layer_style}}
+            }{{/section_element_atom}}
+        }
+{{/has_section_element_atom}}{{^has_section_element_atom}}// (not present){{/has_section_element_atom}}
+        //
+        // then element / atom (aka * / element / atom){{#has_element_atom}}
+        if let elementName = element?.name {
+{{#element_atom}}
+
+            if atom == "{{atom}}" && elementName == "{{element}}" {
+{{> layer_style}}
+            }{{/element_atom}}
+        }
+{{/has_element_atom}}{{^has_element_atom}}// (not present){{/has_element_atom}}
+        //
+        // then section / * / atom{{#has_section_atom}}
+        if let sectionName = section?.name {
+{{#section_atom}}
+
+            if atom == "{{atom}}" && sectionName == "{{section}}" {
+{{> layer_style}}
+            }{{/section_atom}}
+        }
+{{/has_section_atom}}{{^has_section_atom}}// (not present){{/has_section_atom}}
+        //
+        // finally just atom
+{{#atom}}
+        if atom == "{{atom}}" {
+{{> layer_style}}
+        }
+{{/atom}}
+{{/grouped}}
+        print("[Stylist:layerStyle] failed to find asset for \(atom) for element '\(element?.name ?? "nil")' in section '\(section?.name ?? "nil")'")
+
+        // return a very visually obvious default...
+        return LayerStyle(fill: FlatLayerFill(color: .cyan))
+
+    }
+}

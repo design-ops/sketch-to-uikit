@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Build the Docker image for the current project
+
+source "$( dirname "${BASH_SOURCE[0]}" )/steps/_lib.sh"
+
+script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+plugin_project_path="$script_dir/.."
+
+check_docker_is_installed
+
+echo "Building the Docker image..."
+cd ${plugin_project_path}
+docker build -t sketch-to-stylable-uikit:$VERSION -t sketch-to-stylable-uikit:latest .
+echo "Finished."

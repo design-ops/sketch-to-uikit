@@ -1,0 +1,25 @@
+//
+//  {{app_name}}LayerStyle.swift
+//
+//  WARNING THIS FILE IS GENERATED *DO NOT* EDIT
+//
+
+// swiftlint:disable all
+
+import Foundation
+import StylableUIKit
+
+public enum {{app_name}}LayerStyle: String, StylistLayerStyle {
+{{#if layer}}
+{{#layer}}
+    case {{.}};
+{{/layer}}
+{{else}}
+    // No LayerStyle Identifiers found in design file, so default enum generated
+    case none
+{{/if}}
+
+    public var name: String {
+        return self.rawValue
+    }
+}

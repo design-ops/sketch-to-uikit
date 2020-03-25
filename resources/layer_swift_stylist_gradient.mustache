@@ -1,0 +1,16 @@
+// {{name}}
+{{#if gradient}}
+let locations: [Double] = [{{#each gradient.locations}}{{this}},{{/each}}]{{#if gradient.isAxial}}
+// Axial (Linear) Gradient
+let direction = GradientLayerFill.Direction(start: CGPoint(x: {{gradient.from.x}}, y: {{gradient.from.y}}), end: CGPoint(x: {{gradient.to.x}}, y: {{gradient.to.y}}))
+let style = GradientLayerFill.Style.axial(direction: direction, locations: locations){{else}}{{! else gradient.isAxial}}
+// Radial Gradient
+let center = CGPoint(x: {{gradient.from.x}}, y: {{gradient.from.y}})
+let style = GradientLayerFill.Style.radial(center: center, locations: locations){{/if}}
+let colors = [{{#each gradient.colors}}{{> color color=this}},{{/each}}]
+let fill = GradientLayerFill(colors: colors, style: style)
+{{else}}{{! else gradient}}{{#if image}}
+let fill = ImageLayerFill(image: UIImage(named: "{{image.file_name}}")!, resizingMode: .{{image.resizingMode}}, gravity: .{{image.gravity}}) /* tile_scale={{image.tile_scale}} fill_type={{image.fill_type}}  */
+{{else}}
+let fill = FlatLayerFill(color: {{> color color=color}})
+{{/if}}{{/if}}

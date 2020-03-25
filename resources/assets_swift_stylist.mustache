@@ -1,0 +1,116 @@
+//
+//  Stylist+assets.swift
+//
+//  WARNING THIS FILE IS GENERATED *DO NOT* EDIT
+//
+
+// swiftlint:disable all
+
+import UIKit
+import StylableUIKit
+
+private let userDefaults_alwaysShowMissingImage = "StylableUIKit_alwaysShowMissingImage"
+private let userDefaults_showMissingIfNoImage = "StylableUIKit_showMissingIfNoImage"
+
+extension Stylist {
+
+    public func asset(_ identifier: StylistAsset, element: StylistElement? = nil, section: StylistSection? = nil) -> Asset? {
+        let atom = String(describing: identifier)
+
+        /*
+Order of processing is...
+
+`section / element /atom`
+`element / atom`
+`section / * / atom`
+`atom`
+        */
+
+        if let alwaysShowMissing = UserDefaults.standard.value(forKey: userDefaults_alwaysShowMissingImage) as? Bool,
+            alwaysShowMissing == true {
+            return Asset(image: visualFatalError)
+        }
+{{#grouped}}
+        // first section / element / atom{{#has_layout_element_atom}}
+        if let sectionName = section?.name, let elementName = element?.name {
+{{#layout_element_atom}}
+            if atom == "{{atom}}" && elementName == "{{element}}" && sectionName == "{{section}}" {
+{{> asset}}
+            }{{/layout_element_atom}}
+        }
+{{/has_layout_element_atom}}{{^has_layout_element_atom}}// (not present){{/has_layout_element_atom}}
+        //
+        // then element / atom (aka * / element / atom){{#has_element_atom}}
+        if let elementName = element?.name {
+{{#element_atom}}
+            if atom == "{{atom}}" && elementName == "{{element}}" {
+{{> asset}}
+            }{{/element_atom}}
+        }
+{{/has_element_atom}}{{^has_element_atom}}// (not present){{/has_element_atom}}
+        //
+        // then section / * / atom{{#has_layout_atom}}
+        if let sectionName = section?.name {
+{{#layout_atom}}
+            if atom == "{{atom}}" && sectionName == "{{section}}" {
+{{> asset}}
+            }{{/layout_atom}}
+        }
+{{/has_layout_atom}}{{^has_layout_atom}}// (not present){{/has_layout_atom}}
+        //
+        // finally just atom
+{{#atom}}
+        if atom == "{{atom}}" {
+{{> asset}}
+        }
+{{/atom}}
+{{/grouped}}
+        print("[Stylist:asset] failed to find asset for \(atom) for element '\(element?.name ?? "nil")' in section '\(section?.name ?? "nil")'")
+
+        if let showMissing = UserDefaults.standard.value(forKey: userDefaults_showMissingIfNoImage) as? Bool,
+            showMissing == true {
+            return Asset(image: visualFatalError)
+        }
+
+        return nil
+
+    }
+}
+
+private func debug(str: String) {
+    print(str)
+}
+
+private var visualFatalError : UIImage = {
+    let daPink = UIColor(red: 252/255.0, green: 46/255.0, blue: 130/255.0, alpha: 1.0) //.setFill()
+    let daPurple = UIColor.purple
+    return createImageWithRadialGradient(size: CGSize(width: 40, height: 40),
+                                         colors: [daPink, daPurple, daPink]
+        ).withRenderingMode(.alwaysOriginal)
+}()
+
+private func createImageWithRadialGradient(size: CGSize, colors uiColors: [UIColor]) -> UIImage {
+
+    let scale: CGFloat = 0
+    UIGraphicsBeginImageContextWithOptions(size, false, scale)
+
+    let ctx = UIGraphicsGetCurrentContext()!
+
+    let colors = uiColors.map{ $0.cgColor }
+    //let colors = [UIColor.black.cgColor, UIColor.red.cgColor]
+
+    let colorSpace = CGColorSpaceCreateDeviceRGB()
+    var locations = [CGFloat]()
+    for i in 0...colors.count-1 {
+        locations.append(CGFloat(i) / CGFloat(colors.count))
+    }
+
+    let gradient = CGGradient(colorsSpace: colorSpace, colors: colors as CFArray, locations: locations)
+    let center = CGPoint(x: size.width / 2.0, y: size.height / 2.0)
+    let radius = max(size.width / 2.0, size.height / 2.0)
+    ctx.drawRadialGradient(gradient!, startCenter: center, startRadius: 0.0, endCenter: center, endRadius: radius, options: .drawsAfterEndLocation /*CGGradientDrawingOptions(rawValue: 0)*/)
+
+    let newImage = UIGraphicsGetImageFromCurrentImageContext()
+    UIGraphicsEndImageContext()
+    return newImage!
+}

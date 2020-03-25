@@ -1,0 +1,25 @@
+//
+//  {{app_name}}TextStyle.swift
+//
+//  WARNING THIS FILE IS GENERATED *DO NOT* EDIT
+//
+
+// swiftlint:disable all
+
+import Foundation
+import StylableUIKit
+
+public enum {{app_name}}TextStyle: String, StylistTextStyle {
+{{#if text}}
+{{#text}}
+    case {{.}};
+{{/text}}
+{{else}}
+    // No TextStyle Identifiers found in design file, so default enum generated
+    case none
+{{/if}}
+
+    public var name: String {
+        return self.rawValue
+    }
+}

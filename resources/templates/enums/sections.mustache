@@ -1,0 +1,22 @@
+//
+//  {{app_name}}Section.swift
+//
+//  WARNING THIS FILE IS GENERATED *DO NOT* EDIT
+//
+
+// swiftlint:disable all
+
+import Foundation
+import StylableUIKit
+
+
+public enum {{app_name}}Section: String, StylistSection {
+{{#if sections}}
+{{#sections}}
+    case {{.}};
+{{/sections}}
+{{else}}
+    // No Sections found in design file, so default enum generated
+    case none
+{{/if}}
+}
